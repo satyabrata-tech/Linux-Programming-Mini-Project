@@ -1,0 +1,2 @@
+This project focuses on creating a simple calculator using Python in a Linux environment, designed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator operates through the Linux command line, making it lightweight and easily accessible for quick calculations without needing a graphical interface. 
+This project provides a hands-on introduction to Python programming in a Linux environment, illustrating the practicality of command-line tools and scripting.
